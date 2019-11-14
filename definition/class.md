@@ -6,10 +6,10 @@ Create a Class example
 To create a class, use the keyword class:   
 
 Example  
-Create a class named NewClass, with a property named X:   
+Create a class named NewClass, with a property called name:   
 
 >class NewClass:  
-> X = 8 
+> name = 'Jane' 
 
 
 

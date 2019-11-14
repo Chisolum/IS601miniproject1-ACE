@@ -4,7 +4,7 @@
 
 1.	[How Python uses Indentation to control Flow](/definition/indent.md)
 2.	[Don't Repeat Yourself](/definition/dry.md)
-3.	[Design Patterns from Gang of Four](/defintion/design.md)
+3.	[Design Patterns from Gang of Four](/definition/design.md)
 4.	[Class](/definition/class.md)
 5.	[Object](/definition/object.md)
 6.	Static
