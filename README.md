@@ -24,7 +24,12 @@ Emerald Umstead
 * Sources
      * https://git-scm.com
      * https://kbroman.org
-     * https://help.github.com   
+     * https://help.github.com     
+     * https://python.swaroopch.com   
+     * https://springframework.guru/gang-of-four-design-patterns   
+     * https://scientificallysound.org/2018/07/19/python-functions   
+     * https://docs.python.org/3/tutorial   
+     * https://www.learnpython.org/en     
 
  
 * [Changelog](/changelog.md)
