@@ -7,7 +7,7 @@ Chisolum Okafor
 Emerald Umstead  
 
 
-* [Project Decription](/project.md)   
+* [Project Description](/project.md)   
 
 * [GitFlow](/gitFlow.md)   
 
@@ -17,6 +17,10 @@ Emerald Umstead
 * [GIT Tutorial](/tutorial.md)
     
 
+
+* [Definitions](/definitions,md)
+
+
 * Sources
      * https://git-scm.com
      * https://kbroman.org
@@ -24,4 +28,6 @@ Emerald Umstead
 
  
 * [Changelog](/changelog.md)
-:
+
+
+
