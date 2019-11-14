@@ -18,7 +18,7 @@ Emerald Umstead
     
 
 
-* [Definitions](/definitions.md)  
+* [Definitions](/alldefinitions.md)  
 
 
 * Sources
