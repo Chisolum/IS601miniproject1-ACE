@@ -8,7 +8,7 @@
 4.	[Class](/definition/class.md)
 5.	[Object](/definition/object.md)
 6.	[Static](/definition/static.md)
-7.	Property / Attribute
+7.	[Property / Attribute](definition/property.md)
 8.	Method
 9.	Exception
 10.	Unit Test
