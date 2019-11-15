@@ -14,7 +14,7 @@
 10.	[Unit Test](/definition/unittest.md)
 11.	Constructor
 12.	Factory
-13.	Decorator
+13.	[Decorator](/definition/decorator.md)
 14.	[Extend Class](/defintion/extend.md)
 15.	[CSV Files](/definition/csv.md)
 16.	[Reading Files](/definition/reading.md)
