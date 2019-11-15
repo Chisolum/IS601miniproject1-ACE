@@ -15,7 +15,7 @@
 11.	Constructor
 12.	Factory
 13.	Decorator
-14.	Extend Class
+14.	[Extend Class](/defintion/extend.md)
 15.	[CSV Files](/definition/csv.md)
 16.	[Reading Files](/definition/reading.md)
 
