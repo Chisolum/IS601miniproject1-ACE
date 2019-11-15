@@ -10,7 +10,7 @@
 6.	[Static](/definition/static.md)
 7.	[Property / Attribute](/definition/property.md)
 8.	[Method](/definition/method.md)
-9.	Exception
+9.	[Exception](definition/exception.md)
 10.	[Unit Test](/definition/unittest.md)
 11.	[Constructor](/definition/constructor.md)
 12.	[Factory](/definition/factory.md)
