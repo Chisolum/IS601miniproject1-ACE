@@ -12,7 +12,7 @@
 8.	[Method](/definition/method.md)
 9.	Exception
 10.	[Unit Test](/definition/unittest.md)
-11.	Constructor
+11.	[Constructor](/definition/constructor.md)
 12.	[Factory](/definition/factory.md)
 13.	[Decorator](/definition/decorator.md)
 14.	[Extend Class](/defintion/extend.md)

@@ -4,5 +4,4 @@ The text inside the CSV file is laid out in rows, and each of those has columns,
 Every line in a CSV file is a row in the spreadsheet, while the commas are used to define and separate cells. The commas are crucial because they are a key indicator of the different values/new subset.
 
 Example of a CSV File opened in notepad/text editor:
-
 ![](https://www.howtogeek.com/wp-content/uploads/2018/04/img_5acfaa319c745.png) 
