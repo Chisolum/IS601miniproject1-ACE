@@ -7,7 +7,7 @@
 3.	[Design Patterns from Gang of Four](/definition/design.md)
 4.	[Class](/definition/class.md)
 5.	[Object](/definition/object.md)
-6.	Static
+6.	[Static](/definition/static.md)
 7.	Property / Attribute
 8.	Method
 9.	Exception
